@@ -1,0 +1,941 @@
+
+/*xs diveich responsive*/
+/*xs diveich responsive*/
+/*xs diveich responsive*/
+@media(min-width: 1200px) and (max-width: 1399.99px) {
+	.navbar-nav {
+		gap: 30px;
+	}
+	.nav-item .nav-link {
+		font-size: 16px;
+	}
+	.nav-item {
+		gap: 0px;
+	}
+	.bnner-text h1 {
+		font-size: 45px;
+		padding-bottom: 30px;
+	}
+	.bnner-text p {
+		font-size: 14px;
+		margin-bottom: 40px;
+	}
+	.bnner-input input {
+		font-size: 15px;;
+		width: 563px;
+		padding: 35px 0 35px 21px;
+	}
+	.bnner-input button {
+		font-size: 15px;
+		border-radius: 19px;
+		padding: 17px 45px;
+		right: 0px;
+	}
+
+	.tool-text-left h1 {
+		font-size: 45px;
+	}
+	.tool-text-right p {
+		font-size: 15px;
+		width: 100%;
+	}
+	.tool-box-head h4 {
+		font-size: 20px;
+	}
+	.tool-box p {
+		font-size: 15px;
+		padding-bottom: 20px;
+	}
+	.gool-text h2 {
+		font-size: 45px;
+		padding-bottom: 20px;
+		padding-right: 0;
+	}
+	.gool-text p {
+		font-size: 16px;
+		padding-bottom: 25px;
+		padding-right: 0px;
+	}
+	.gool-text {
+		padding-top: 35px;
+	}
+	.list-header span {
+		font-size: 17px;
+	}
+	.list-text h2 {
+		font-size: 45px;
+		padding-bottom: 20px;
+	}
+	.list-text p {
+		font-size: 16px;
+	}
+	.team-intro {
+		padding: 35px;
+	}
+	.intro-part-right ul li {
+		font-size: 17px;
+	}
+	.intro-part-left ul li {
+		font-size: 17px;
+	}
+	.team{
+		padding-bottom: 0px;
+	}
+
+	.plan-head h2 {
+		font-size: 45px;
+		padding-bottom: 80px;
+	}
+	.plan-content p {
+		font-size: 17px;
+	}
+	.plan-img picture img {
+		height: 465px;
+	}
+	.trial-part-input input {
+		font-size: 17px;
+	}
+	.trial-part-input button {
+		font-size: 16px;
+		padding: 15px 40px;
+		width: 30%;
+	}
+}
+/*lg diveich responsive*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.nav-item {
+		gap: 0px;
+	}
+	.navbar-nav {
+		gap: 20px;
+	}
+	.nav-item .nav-link {
+		font-size: 17px;
+	}
+	.navbar-nav {
+		gap: 25px;
+	}
+	.bnner{
+		padding-top:0;
+	}
+	.bnner-text h1 {
+		font-size: 33px;
+		padding-bottom: 25px;
+	}
+	.bnner-text p {
+		font-size: 15px;
+		margin-bottom: 85px;
+	}
+	.bnner-input input {
+		font-size: 13px;
+		width: 500px;
+		padding: 30px 0 30px 28px;
+	}
+	.bnner-input button {
+		font-size: 14px;
+		border-radius: 17px;
+		padding: 15px 40px;
+		right: -30px;
+	}
+	.tool{
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.tool-text-left h1 {
+		font-size: 40px;
+		padding-right: 0;
+	}
+    .tool-text-right p {
+	font-size: 15px;
+	width: 455px;
+   }
+   .tool-box-head h4 {
+	font-size: 16px;
+}
+.tool-box p {
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+.tool-box a {
+	font-size: 15px;
+}
+
+.gool{
+	padding-bottom: 0;
+}
+.gool-text {
+	padding-top: 25px;
+}
+.gool-text h2 {
+	font-size: 25px;
+	padding-right: 0;
+}
+.gool-text p {
+	font-size: 15px;
+	padding-right: 55px;
+	padding-bottom: 20px;
+}
+
+.list-header span {
+	font-size: 16px;
+	padding: 30px 45px;
+}
+.list-text h2 {
+	font-size: 35px;
+	padding-bottom: 15px;
+}
+.list-text p {
+	font-size: 15px;
+	padding-bottom: 23px;
+	padding-right: 0px;
+}
+.team-head h2 {
+	font-size: 40px;
+}
+.team-switch {
+	font-size: 20px;
+}
+
+.team-intro h3 {
+	font-size: 35px;
+	padding-bottom: 40px;
+}
+.team-intro {
+	padding: 20px;
+}
+.intro-part-left ul li svg {
+	padding-right: 10px;
+}
+.intro-part-left ul li {
+	font-size: 14px;
+}
+.intro-part-right ul li {
+	font-size: 16px;
+}
+.tream-button {
+	font-size: 18px;
+	padding: 15px 40px;
+}
+.team{
+	padding-bottom: 0;
+}
+
+.plan-head h2 {
+	font-size: 49px;
+	padding-bottom: 60px;
+}
+.plan-content p {
+	font-size: 16px;
+}
+.plan-content h5 {
+	font-size: 35px;
+	padding-bottom: 0;
+}
+.plan-img picture img {
+	height: 440px;
+}
+
+.trial-head h2 {
+	font-size: 38px;
+	padding-bottom: 20px;
+}
+.trial-part-input input {
+	font-size: 16px;
+	width: 350px;
+
+}
+.trial-part-input button {
+	font-size: 18px;
+	padding: 14px 34px;
+	border-radius: 18px;
+}
+.footer-content-text p {
+	font-size: 15px;
+}
+.footer-content-right1 ul li:nth-child(1) {
+	font-size: 20px;
+	padding-bottom: 40px;
+}
+.footer-content-right1 ul li {
+	font-size: 16px;
+	padding-bottom: 25px;
+}
+.footer-content-right2 ul li:nth-child(1) {
+	font-size: 20px;
+	padding-bottom: 40px;
+}
+.footer-content-right2 ul li {
+	font-size: 16px;
+	padding-bottom: 25px;
+}
+.footer-content-right3 ul li:nth-child(1) {
+	font-size: 20px;
+	padding-bottom: 40px;
+}
+.footer-content-right3 ul li {
+	font-size: 16px;
+	padding-bottom: 25px;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+		/* navbar responsive css starts here*/
+	.navbar{
+		background-color: rgb(255, 189, 114);
+	}
+	.navbar-toggler:focus {
+		box-shadow:none;
+	}
+   .nav-item{
+	display: flex;
+	justify-content:center;
+	
+   }
+   .nav-button button{
+	width: 50%;
+   }
+   .nav-button{
+	display: flex;
+	justify-content: center;
+	margin-top: 25px;
+	padding-bottom: 25px;
+   }
+	/* navbar responsive css ends here*/
+	/* bnner responsive css starts here*/
+	#bnner{
+		padding-top: 0;
+	}
+	.bnner-text h1 {
+		font-size: 35px;
+		padding-bottom: 20px;
+	}
+	.bnner-text p {
+		margin-bottom: 34px;
+	}
+	.bnner-input input {
+		font-size: 15px;
+		padding: 25px 0 25px 18px;
+	}
+	.bnner-input button {
+		font-size: 15px;;
+		border-radius: 16px;
+		padding: 15px 39px;
+		top: 8px;
+		bottom: 8px;
+		right: 78px;
+	}
+
+	/* bnner responsive css ends here*/
+	
+	/* tool responsive css starts here*/
+	.tool{
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.tool-text-left h1 {
+		font-size: 40px;
+	}
+	.tool-text-right p {
+		font-size: 14px;
+	}
+	.tool-box-head h4 {
+		font-size: 20px;
+	}
+	.tool-box p {
+		font-size: 15px;
+		padding-bottom: 20px;
+	}
+
+	/* tool responsive css ends here*/
+	/* gool responsive css starts here*/
+	.gool{
+		padding-bottom: 0;
+	  }
+	  .gool-img{
+		overflow: hidden;
+	  }
+	  .gool-text{
+		padding-top: 50px;
+		text-align: center;
+	  }
+	  .gool-text h2 {
+		font-size: 25px;
+		padding-bottom: 20px;
+		padding-right: 0;
+	}
+	.gool-text p {
+		font-size: 14px;
+		padding-right: 0;
+		padding-bottom: 30px;
+		overflow: hidden;
+	
+	}
+	.gool-text button {
+		font-size: 20px;
+		padding: 20px 48px;
+		margin-top: 0;
+		width: 80%;
+	}
+
+	/* gool responsive css ends here*/
+	
+	/* list responsive css starts here*/
+	.list-header span {
+		font-size: 15px;
+		padding: 20px 18px;
+	}
+	.list-text h2 {
+		font-size: 40px;
+		padding-bottom: 15px;
+		padding-top: 40px;
+	}
+	.list-text p {
+		font-size: 17px;
+		padding-bottom: 30px;
+	}
+	.list-text button {
+		font-size: 17px;
+		padding: 18px 40px;
+		width: 50%;
+	}
+
+	/* list responsive css ends here*/
+	/* tram responsive css starts here*/
+	.tream{
+		padding-bottom: 0;
+	}
+	.team-head h2 {
+		font-size: 35px;
+		padding-bottom: 15px;
+	}
+	.team-switch {
+		font-size: 20px;
+	}
+	.team-intro:hover {
+		transform: none;
+	}
+	.team-intro {
+		margin-top: 80px;
+	}
+	
+	/* tram responsive css ends here*/
+	/* plan responsive css starts here*/
+	.plan-head h2 {
+		font-size: 38px;
+		padding-bottom: 70px;
+	}
+	.plan-content-img.img-fluid {
+		height: 500px;
+	}
+	/* plan responsive css ends here*/
+
+	/* trial responsive css starts here*/
+	.trial-head h2 {
+		font-size: 32px;
+		padding-bottom: 20px;
+	}
+	.trial-part-input input {
+		font-size: 15px;
+		width: 70%;
+	}
+	.trial-part-input button {
+		font-size: 15px;
+	}
+
+	/* trial responsive css ends here*/
+	/* footer responsive css starts here*/
+	.footer-content-text p {
+		font-size: 16px;
+		padding-bottom: 70px;
+	}
+	.footer-content-right1 ul li:nth-child(1) {
+		font-size: 20px;
+		padding-bottom: 40px;
+	}
+	.footer-content-right1 ul li {
+		font-size: 16px;
+		padding-bottom: 25px;
+	}
+	.footer-content-right2 ul li:nth-child(1) {
+		font-size: 20px;
+		padding-bottom: 40px;
+	}
+	.footer-content-right2 ul li {
+		font-size: 16px;
+		padding-bottom: 25px;
+	}
+	.footer-content-right3 ul li:nth-child(1) {
+		font-size: 20px;
+		padding-bottom: 40px;
+	}
+	.footer-content-right3 ul li {
+		font-size: 16px;
+		padding-bottom: 25px;
+	}
+	.footer-buttom-part-left p {
+		font-size: 16px;
+	}
+	.footer-buttom-part-right ul li {
+		font-size: 16px;
+	}
+	/* footer responsive css ends here*/
+}
+/*sm diveich responsive*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/* navbar responsive css starts here*/
+	.navbar{
+		background-color: rgb(227, 195, 97);
+	}
+	.navbar-toggler:focus {
+		box-shadow:none;
+	}
+   .nav-item{
+	display: flex;
+	justify-content:center;
+	
+   }
+   .navbar-nav {
+	gap: 30px;
+}
+   .nav-button{
+	display: flex;
+	justify-content: center;
+	margin-top: 25px;
+	padding-bottom: 25px;
+   }
+   .nav-button button{
+	width: 80%;
+   }
+   /*bnner part responsive*/
+   .bnner{
+	padding-top: 0;
+   }
+   .bnner-text h1 {
+	font-size: 26px;
+	padding-bottom: 15px;
+	padding-top: 0;
+}
+
+.bnner-input input {
+	font-size: 14px;
+	width: 100%;
+	padding: 21px 0 21px 20px;
+}
+.bnner-input button {
+	font-size: 15px;
+	padding: 12px 45px;
+	position: unset;
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+  /*logo part responsive*/
+  .logo{
+	padding-bottom: 0;
+  }
+    /*tool part responsive*/
+	.tool-text-left h1 {
+		font-size: 30px;
+		padding-bottom: 0;
+	}
+	.tool-text-right p {
+		font-size: 15px;
+		width: 100%;
+		margin-bottom: 0;
+	}
+	.tool-box-head h4 {
+		font-size: 21px;
+	}
+	.tool-box p {
+		font-size: 14px;
+		padding-bottom: 17px;
+		padding-top: 20px;
+	}
+	.tool-box a {
+		font-size: 16px;
+		padding-bottom: 0;
+	}
+	  /*gool part responsive*/
+	  .gool{
+		padding-top: 0;
+		padding-bottom: 0;
+	  }
+	  .gool-text{
+		padding-top: 50px;
+		text-align: center;
+	  }
+	  .gool-text h2 {
+		font-size: 25px;
+		padding-bottom: 20px;
+		padding-right: 0;
+	}
+	.gool-text p {
+		font-size: 14px;
+		padding-right: 0;
+		padding-bottom: 30px;
+	
+	}
+	.gool-text button {
+		font-size: 20px;
+		padding: 20px 48px;
+		margin-top: 0;
+		width: 80%;
+	}
+	    /*list part responsive*/
+		.list{
+			padding-bottom: 30px;
+		}
+        .list-header{
+			padding-bottom: 0;
+			margin-bottom: 0;
+		}
+		.list-header{
+			display: block !important;
+			margin-bottom: 25px;
+		}
+		.list-header span {
+			font-size: 17px;
+			padding: 12px 55px;
+			width: 100%;
+			display: flex;
+			text-align: center;
+		}
+		.list-text h2 {
+			font-size: 30px;
+			padding-bottom: 4px;
+			padding-top: 50px;
+		}
+		.list-text p {
+			font-size: 16px;
+			padding-bottom: 10px;
+		}
+		.list-text button {
+			font-size: 15px;
+			padding: 16px 40px;
+		}
+	
+		  /*team part responsive*/
+		  .team-head h2 {
+			font-size: 40px;
+		}
+		.team-switch {
+			font-size: 25px;
+		}.team-intro:hover {
+			transform:none;
+		}
+		    /*bnner part responsive*/
+			.plan-head h2 {
+				font-size: 43px;
+				padding-bottom: 65px;
+			}
+			.plan-content p {
+				font-size: 17px;
+			}
+			.plan-content-img{
+				padding-top: 50px;
+				padding-bottom: 20px;
+			}
+
+			  /*trial part responsive*/
+			  .trial{
+				padding-top: 30px;
+				padding-bottom:50px;
+			  }
+			  .trial-head h2 {
+				font-size: 40px;
+			}
+			.trial-part-input{
+				display:flex;
+				gap: 20px;
+			}
+			.trial-part-input input {
+				font-size: 16px;
+				width: 50%;
+			}
+			.trial-part-input button {
+				font-size: 17px;;
+				padding: 15px 45px;
+			}
+			  
+			  /*footer part responsive*/
+			  .footer-content-text p {
+				font-size: 16px;
+				padding-bottom: 70px;
+			}
+			.footer-content-right1{
+				text-align: center;
+			}
+			.footer-content-right2{
+				text-align: center;
+			}
+			.footer-content-right3{
+				text-align: center;
+			}
+			.footer-buttom-ul{
+				
+				padding-left: 0;
+			}
+			  /*bnner part responsive*/
+			  /*bnner part responsive*/
+			  /*bnner part responsive*/
+			  /*bnner part responsive*/
+			  /*bnner part responsive*/
+
+ }
+/*xs diveich responsive*/
+@media(max-width:575.98px){
+    .navbar {
+        background: rgb(213, 197, 23);
+    }
+    .navbar-toggler:focus {
+           box-shadow:none;
+    }
+    .nav-item {
+      display: flex;
+      justify-content: center;
+
+    }
+  .nav-button button{
+    margin:0 auto;
+    width: 80%;
+    margin-top: 40px;
+  }
+  .nav-button button{
+    display: flex;
+    justify-content: center;
+  }
+  /*bnner*/
+  #bnner {
+	padding-top: 0;
+}
+.bnner-text h1 {
+	font-size: 27px;
+}
+.bnner-text p {
+	font-size: 16px;
+	 padding-right: 0;
+}
+.bnner-input input {
+	font-size: 14px;
+	width: 100%;
+	padding: 25px 0 25px 17px;
+}
+.bnner-input button {
+	font-size: 15px;
+	padding: 14px 48px;
+   position: unset; 
+   margin-top: 25px;
+}
+/*logo*/
+.logo{
+  padding-bottom: 0;
+}
+/*tool part*/
+.tool-text-left h1 {
+   font-size: 20px;
+   padding-right: 0; 
+   padding-bottom: 0;
+   border-radius: 180%;
+}
+.tool-text-right p {
+  font-size: 14px;
+  padding-top: 0;
+  width: 100%;
+}
+.tool-box-head h4 {
+	font-size: 18px;
+}
+.tool-box p {
+	font-size: 14px;
+	line-height: 170%;
+  padding-top: 10px;
+}
+/*gool*/
+.gool{
+padding-top: 0;
+padding-bottom: 60px;
+overflow: hidden;
+}
+.gool-text{
+	text-align: center;
+}
+.gool-text h2 {
+	font-size: 24px;
+	padding-bottom: 8px;
+	padding-right: 0;
+}
+.gool-text p {
+	font-size: 14px;
+	padding-right: 0;
+	padding-bottom: 25px;
+}
+/*list partr*/
+.list-header{
+  display:block !important;
+}
+.list-header span {
+	font-size: 14px;
+	padding: 25px 57px;
+  width: 100%;
+  display: flex;
+  text-align: center;
+}
+.list-text h2 {
+	font-size: 29px;
+	padding-bottom: 15px;
+  padding-top: 20px;
+}
+.list-text p {
+	font-size: 13px;
+	padding-bottom: 25px;
+	padding-right:0;
+}
+.list-text button {
+	font-size: 16px;
+	padding: 12px 42px;
+}
+/*logo*/
+.team-head h2 {
+	font-size: 37px;
+  padding-top: 0;
+}
+.team-switch {
+	font-size: 20px;
+}
+.slider.round{
+   border-radius: 25px;
+}
+.team{
+  padding-bottom: 0;
+}
+.team-intro{
+  transition: none;
+}
+.team-intro h3 {
+	font-size: 30px;
+	padding-bottom: 45px;
+}
+.intro-part-left ul li {
+	font-size: 12px;
+}
+.intro-part-right ul li {
+	font-size: 12px;
+  margin-bottom: 0;
+}
+.intro-part-left ul li svg {
+	font-size: 13px;
+}
+.tream-button {
+	font-size: 14px;
+	margin-top: 17px;
+}
+/*plan part*/
+.plan-head h2 {
+	font-size: 28px;
+	padding-bottom: 40px;
+}
+.plan-img picture img {
+	border-radius: 10px;
+}
+
+.plan-content p {
+	font-size: 15px;
+}
+.plan-content h5 {
+	font-size: 30px;;
+	padding-bottom: 10px;
+}
+.plan-icons {
+	gap: 15px;
+	padding-bottom: 29px;
+}
+.plan-arrow svg {
+	padding: 20px 19px;
+}
+.plan-content-img{
+	margin-top: 40px;
+	padding-bottom: 0px;
+}
+/*trial part*/
+.trial{
+	padding-top: 50px;
+}
+.trial-head h2 {
+	font-size: 21px;
+	padding-bottom: 15px;
+}
+.trial-part-input{
+	display: block;
+}
+.trial-head span {
+	font-size: 16px;
+}
+.trial-part-input input {
+	font-size: 14px;
+	width: 100%;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+.trial-part-input button {
+	font-size: 15px;
+	padding: 13px 35px;
+}
+/*footerpart*/
+.footer-content-text p {
+	font-size: 15px;
+	padding-top: 40px;
+	padding-bottom: 75px;
+}
+.footer-content-right1 ul li:nth-child(1) {
+	font-size: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.footer-content-right1 ul li {
+	font-size: 12px;
+	padding-bottom: 25px;
+	text-align: center;
+}
+.footer-content-right2 ul li:nth-child(1) {
+	font-size: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.footer-content-right2 ul li {
+	font-size: 12px;
+	padding-bottom: 25px;
+	text-align: center;
+}
+.footer-content-right3 ul li:nth-child(1) {
+	font-size: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.footer-content-right3 ul li {
+	font-size: 12px;
+	padding-bottom: 25px;
+	text-align: center;
+}
+.footer-buttom-part-left p {
+	font-family: var(--seconderyFonts);
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 180%;
+	color: var(--mainFontsColor);
+	text-transform: capitalize;
+}
+.footer-buttom-part-left p {
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+.footer-buttom-part-right ul li {
+	justify-content: center;
+}
+.footer-buttom-part-right ul li {
+	font-size: 16px;
+	padding-top: 25px;
+}
+.futter-bottom-ul{
+	width: 100%;
+	padding-left: 0;
+}
+}
